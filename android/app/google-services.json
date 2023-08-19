@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217113546235",
+    "project_id": "mynotes-fluterapp-mobile",
+    "storage_bucket": "mynotes-fluterapp-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217113546235:android:81bb53b5ba8ae8800ecf5e",
+        "android_client_info": {
+          "package_name": "com.zenginhasanberk.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217113546235-6andunskect7ptl2hp43v34dqn4jrou4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqPobEurSE-Fb4hPExGSwlpNF3bE9qzV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217113546235-6andunskect7ptl2hp43v34dqn4jrou4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
