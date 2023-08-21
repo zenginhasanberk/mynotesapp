@@ -1,7 +1,5 @@
 # mynotes - A Cross-Platform Mobile Flutter Application
 
-## Getting Started
-
 This is my first Flutter application, and I started working on this to learn the Flutter framework. Our client for my on-campus consulting organization told us that they are transitioning from React to Flutter, and asked us to code their new application using Flutter. As part of a [37 hour YouTube tutorial series](https://www.youtube.com/watch?v=VPvVD8t02U8&t&ab_channel=freeCodeCamp.org) that works on this application, I've learned a lot from Flutter Widgets to integration with Firebase and how to store data in the cloud.  This project is incomplete! I am currently at the 23rd hour of the 37 hour tutorial. I am still working on this project whenever I have time.
 
 ## Technologies Used
